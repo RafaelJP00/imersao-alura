@@ -1,2 +1,2 @@
 # Imersao-alura
-Projeto Java da Imersão Alura 2022.
+Projeto Java da imersão Alura 2022.
